@@ -2603,6 +2603,9 @@ h4.title {
   border-radius: 0;
   border: 3px solid #6eb24c;
 }
+.goback__btn:hover {
+  background: transparent;
+}
 
 .specialist {
   padding: 60px 0 15px;
