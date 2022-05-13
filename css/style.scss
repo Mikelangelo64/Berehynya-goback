@@ -2487,6 +2487,10 @@ h4.title{
         padding: 0 30px;
         border-radius: 0;
         border: 3px solid $green;
+
+        &:hover{
+            background: transparent;
+        }
     }
 }
 
